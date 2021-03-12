@@ -1,8 +1,8 @@
-package b
+package c
 
 func ExampleMain() {
 	Main()
 	// Output:
-	// Hello from "b" version 0.0.0
+	// Hello from "c" version 0.0.0
 	// Foo B
 }

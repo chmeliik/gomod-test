@@ -1,11 +1,11 @@
-package b
+package c
 
 import (
 	"fmt"
-	"github.com/chmeliik/gomod-test/b/package-b"
+	"github.com/chmeliik/gomod-test/c/package-b"
 )
 
 func Main() {
-	fmt.Println("Hello from \"b\" version 0.0.0")
+	fmt.Println("Hello from \"c\" version 0.0.0")
 	package_b.Foo()
 }
