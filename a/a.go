@@ -2,7 +2,7 @@ package a
 
 import (
 	"fmt"
-	"github.com/chmeliik/gomod-test/a/package-a"
+	"github.com/chmeliik/gomod-test/a/v2/package-a"
 )
 
 func Main() {
